@@ -1,0 +1,40 @@
+How much is a particualr human worth? Can I justify eating babies? What specifically is the replacement cost of a particular person?
+
+
+outsider view
+	info wanted:
+		health
+		age, 
+		demographics about earnings, health risk, injury risk
+	might need to include emotioinal value to others
+
+inside view
+	normally I'd not give much thought to the inside view, but retirement is hard to justify without it.
+	if I knew that I'd get dumped in the ocean as soon as I retired, I'd not be saving for it or looking forward to it. Basically 
+	I demonstrate that I value my retired life by saving money so that I can enjoy those years in the future.
+	This might be the human enjoyment years way of counting rather than the replacement cost way of counting.
+
+replacement cost of human
+	low at birth, (pregnancy time, medical costs of parents, initial equipment purchases)
+		could start negative if starting life ill or in a bad family situation
+	increasing with tutoring (parents, daycare, school), food
+	can drop quickly with serious illness, injury, trauma, dropping out of education system w/o skills to succeed, bad habits (gang, drugs) Negative jumps.
+		can potentially recover from zero or negative value - likelyhood of recovery would need to be baked in to begin with. Positive jumps.
+		the potential for getting ill or traumatized should be built in as well, then the resolution of the risk into an actual problem causes the jump.
+	peaks near end of education for people who get dead end jobs. They'll get better at working, but it only takes a few days to learn how to push a lever, then there is just waiting for death.
+	potentially continues to rise for people who get on a career ladder path, essentially becuase education is increasing, however, useful years of labor fight any gains.
+	value of jobs? Is a sleazeball valuable, even if they're paid reasonably well?
+		some social cancers aren't illegal but are still cancers. Clipboard people.
+	not necessarily zero at retirement, but they'd have to be generating enough good to justify any social benefits they're drawing on a year to year basis.
+	presumably average replacement cost <= (average lifetime earnings + unpaid labor value)?
+	could say that some people could only be replaced by throwing 40 people into the education system and seeing who makes it to the top - a primo engineer may be
+		worth more than the cost of it's education alone - it may take training 40 engineers to generate one primo engineer, in which case most of us are just
+		byproducts of the elite generation process. Probably tied up in the risk probabilities seen in early life. So a primo engineer could potentially
+		see a gigantic jump in replacement cost when their genius is identified, while the rest of us drop rather quicklky when our average or below-avergeness
+		is identified.
+	selecting a useless degree could also cause a value decline beginning during the education as the odds of becoming a success decline
+	people who are severely negative in middle age could come up towards zero as they age out of crime and have less time to draw on public resources
+
+Best way to display seems to be to have a plot with value on Y, time on X with lots of threads for various people. Perhaps a gradient with colors representing a probability of occurance. Could generate vertical time slices that give the distribution of value. Horizontal value slices seem less useful.
+
+	
